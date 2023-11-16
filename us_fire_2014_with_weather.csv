@@ -1,4 +1,4 @@
-NWCG_REPORTING_UNIT_NAME,DISCOVERY_TIME,STAT_CAUSE_DESCR,STATE,temperature
+NWCG_REPORTING_UNIT_NAME,DISCOVERY_TIME,STAT_CAUSE_DESCR,STATE,temperature(C)
 Carlsbad Field Office,1820,Lightning,NM,33.122093
 Southern California Agency,1743,Equipment Use,CA,16.334345
 Southern California Agency,1720,Equipment Use,CA,16.334345
